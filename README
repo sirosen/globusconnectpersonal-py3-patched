@@ -1,0 +1,11 @@
+Patched Globus Connect Personal Linux scripts
+py3 compatible
+
+- Tested only on py2.7 and py3.5 so far
+
+Use
+---
+
+Go to the dir in which you untarred globus connect personal for linux and copy
+these scripts over the versions there.
+Run Globus Connect Personal commands or GUI as usual.
